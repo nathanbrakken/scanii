@@ -5,13 +5,13 @@ require 'scanii/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "scanii"
-  spec.version       = Scanii::VERSION
+  spec.version       = '0.1.0'
   spec.authors       = ["Nathan Brakken"]
   spec.email         = ["nathanbrakken@gmail.com"]
 
   spec.summary       = %q{Api wrapper for scanii.}
   # spec.description   = %q{TODO: Write a longer description or delete this line.}
-  # spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/nathanbrakken/scanii"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
