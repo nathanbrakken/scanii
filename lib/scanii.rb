@@ -1,5 +1,5 @@
 require "scanii/version"
-# require 'rest-client'
+require 'rest-client'
 
 module Scanii
 
