@@ -5,7 +5,7 @@ require 'scanii/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "scanii"
-  spec.version       = '0.1.2'
+  spec.version       = '0.1.3'
   spec.authors       = ["Nathan Brakken"]
   spec.email         = ["nathanbrakken@gmail.com"]
 
